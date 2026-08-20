@@ -1,0 +1,10 @@
+{
+  "name": "Captura y Galería",
+  "description": "Aplicación web moderna y minimalista para capturar fotos en vivo con la cámara o seleccionar imágenes desde la galería con vista previa.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
